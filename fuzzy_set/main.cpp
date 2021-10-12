@@ -3,8 +3,8 @@
 #include <string>
 
 int main() {
-    const std::string path1 = "/home/ivan/CLionProjects/projects_data/FuzzySet/fuzzy1.txt";
-    const std::string path2 = "/home/ivan/CLionProjects/projects_data/FuzzySet/fuzzy2.txt";
+    const std::string path1 = "data/fuzzy1.txt";
+    const std::string path2 = "data/fuzzy2.txt";
 
     TList set1;
     init(set1);

@@ -1,0 +1,4 @@
+Alisov Oleg Yurievich 3 3 budg ang 5 erp 3 geo 5 inf 4 anl 5
+Ornikov Aleksandr Yurievich 3 12 budg ang 5 erp 2 geo 5 inf 3 anl 3
+Yasna Oksana Anatolyevna 4 3 dog ang 5 erp 5 geo 5 inf 5 anl 5
+Kirin Vladislav Nikolayevich 1 3 budg ang 4 erp 5 geo 3 inf 5 anl 5
